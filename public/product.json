@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "category": "tv",
+    "image": "https://i.postimg.cc/zvpXSvdf/The-best-TVs-for-sou.jpg",
+    "price": 24300,
+    "brand": "Walton"
+  },
+  {
+    "id": 2,
+    "category": "tv",
+    "image": "https://i.postimg.cc/1zNXh9zw/02-png.avif",
+    "price": 24300,
+    "brand": "Walton"
+  },
+  {
+    "id": 3,
+    "category": "tv",
+    "image": "https://i.postimg.cc/rsqwrxN9/Ranking-10-Of-The-Mo.jpg",
+    "price": 41800,
+    "brand": "LG"
+  },
+  {
+    "id": 4,
+    "category": "tv",
+    "image": "https://i.postimg.cc/3wDN5KwF/28-LED-HDTV-by-Cont.jpg",
+    "price": 49000,
+    "brand": "Samsung"
+  },
+  {
+    "id": 5,
+    "category": "tv",
+    "image": "https://i.postimg.cc/HL7nDpLM/4-Best-TV-brands-LG.jpg",
+    "price": 41800,
+    "brand": "LG"
+  },
+  {
+    "id": 6,
+    "category": "tv",
+    "image": "https://i.postimg.cc/7LTh8xL7/4K-8K-Ultra-HD-TVs.jpg",
+    "price": 49000,
+    "brand": "Samsung"
+  },
+  {
+    "id": 7,
+    "category": "tv",
+    "image": "https://i.postimg.cc/xdb8D0dK/6-Best-TV-Brands-of.jpg",
+    "price": 49000,
+    "brand": "Sony"
+  },
+  {
+    "id": 8,
+    "category": "tv",
+    "image": "https://i.postimg.cc/YSm0KpSf/Amazon-com-FPD-32-I.jpg",
+    "price": 24300,
+    "brand": "Walton"
+  },
+  {
+    "id": 9,
+    "category": "tv",
+    "image": "https://i.postimg.cc/k5tG3n5w/Amazon-com-PYLE-15.jpg",
+    "price": 59000,
+    "brand": "Pyle"
+  },
+  {
+    "id": 10,
+    "category": "tv",
+    "image": "https://i.postimg.cc/SKzRFyKt/Best-LED-TV-Brands.jpg",
+    "price": 49000,
+    "brand": "Samsung"
+  },
+  {
+    "id": 11,
+    "category": "tv",
+    "image": "https://i.postimg.cc/0NJjR8Qs/Best-Smart-TV-of-202.jpg",
+    "price": 49000,
+    "brand": "LG"
+  },
+  {
+    "id": 12,
+    "category": "tv",
+    "image": "https://i.postimg.cc/g06jFY0T/Best-TVs-of-2025-Te.jpg",
+    "price": 49000,
+    "brand": "Samsung"
+  },
+  {
+    "id": 13,
+    "category": "tv",
+    "image": "https://i.postimg.cc/rsqwrxN9/Ranking-10-Of-The-Mo.jpg",
+    "price": 69000,
+    "brand": "Sony"
+  },
+  {
+    "id": 14,
+    "category": "tv",
+    "image": "https://i.postimg.cc/50BtynLS/LG-24-HD-Smart-TV-w.webp",
+    "price": 24300,
+    "brand": "LG"
+  },
+  {
+    "id": 15,
+    "category": "tv",
+    "image": "https://i.postimg.cc/J0RzkZ5F/SMART-television-S.jpg",
+    "price": 41800,
+    "brand": "LG"
+  },
+  {
+    "id": 16,
+    "category": "tv",
+    "image": "https://i.postimg.cc/VvzkCnFc/TCL-Achieves-Triple.jpg",
+    "price": 49000,
+    "brand": "TCL"
+  },
+  {
+    "id": 17,
+    "category": "tv",
+    "image": "https://i.postimg.cc/tJ94xWzG/The-3-Best-LCD-LED-T.jpg",
+    "price": 59000,
+    "brand": "Sony"
+  },
+  {
+    "id": 18,
+    "category": "tv",
+    "image": "https://i.postimg.cc/qRVRp9hN/google-png.jpg",
+    "price": 69000,
+    "brand": "Samsung"
+  },
+  {
+    "id": 19,
+    "category": "tv",
+    "image": "https://i.postimg.cc/rsgFCshk/The-6-Best-TVs-of-20.jpg",
+    "price": 185000,
+    "brand": "Sony"
+  },
+  {
+    "id": 20,
+    "category": "tv",
+    "image": "https://i.postimg.cc/1XM5cXWP/The-6-Most-Reliable.jpg",
+    "price": 185000,
+    "brand": "Sony"
+  },
+  {
+    "id": 21,
+    "category": "tv",
+    "image": "https://i.postimg.cc/1XM5cXvL/The-best-color-chang.jpg",
+    "price": 185000,
+    "brand": "Samsung"
+  },
+  {
+    "id": 22,
+    "category": "tv",
+    "image": "https://i.postimg.cc/PJd5wYMX/The-Best-Smart-TVs-o.jpg",
+    "price": 185000,
+    "brand": "LG"
+  },
+  {
+    "id": 23,
+    "category": "tv",
+    "image": "https://i.postimg.cc/1XM5cXWS/The-best-TV-brand-fo.jpg",
+    "price": 185000,
+    "brand": "Samsung"
+  },
+  {
+    "id": 24,
+    "category": "light",
+    "image": "https://i.postimg.cc/hvMPbvCJ/Wiz-A19-Color-Changi.jpg",
+    "price": 2200,
+    "brand": "Wiz"
+  },
+  {
+    "id": 25,
+    "category": "tv",
+    "image": "https://i.postimg.cc/ZnjKFnfW/The-Best-TVs-We-ve-T.jpg",
+    "price": 185000,
+    "brand": "Sony"
+  },
+  {
+    "id": 26,
+    "category": "light",
+    "image": "https://i.postimg.cc/V6Q6z3SH/Color-Turnable-RGBWW.jpg",
+    "price": 1500,
+    "brand": "GE"
+  },
+  {
+    "id": 27,
+    "category": "light",
+    "image": "https://i.postimg.cc/Gpstwc2R/Cync-A19-LED-Light-B.webp",
+    "price": 1200,
+    "brand": "Cync"
+  },
+  {
+    "id": 28,
+    "category": "light",
+    "image": "https://i.postimg.cc/qRs7qjyR/Cync-Full-Color-Reve.png",
+    "price": 2000,
+    "brand": "Cync"
+  },
+  {
+    "id": 29,
+    "category": "light",
+    "image": "https://i.postimg.cc/26R6CPbR/Eco-Smart-60-Watt-Equ.jpg",
+    "price": 1800,
+    "brand": "GE"
+  },
+  {
+    "id": 30,
+    "category": "light",
+    "image": "https://i.postimg.cc/DZkZ7tJV/Eco-Smart-Smart-Light.jpg",
+    "price": 2200,
+    "brand": "GE"
+  },
+  {
+    "id": 31,
+    "category": "light",
+    "image": "https://i.postimg.cc/PxsxdBLB/Eleanos-LED-Light-Bu.jpg",
+    "price": 1000,
+    "brand": "Philips"
+  },
+  {
+    "id": 32,
+    "category": "light",
+    "image": "https://i.postimg.cc/PxsxdBpT/GE-2pk-CYNC-Dynamic.jpg",
+    "price": 2500,
+    "brand": "GE"
+  },
+  {
+    "id": 33,
+    "category": "light",
+    "image": "https://i.postimg.cc/d1P1JzkQ/GE-Cync-Dynamic-Effe.jpg",
+    "price": 2500,
+    "brand": "GE"
+  },
+  {
+    "id": 34,
+    "category": "light",
+    "image": "https://i.postimg.cc/JnVnR9Dr/Globe-Electric-7-Wat.jpg",
+    "price": 800,
+    "brand": "Philips"
+  },
+  {
+    "id": 35,
+    "category": "light",
+    "image": "https://i.postimg.cc/V6Q6z3r0/Glow-LED-Multi-Color.jpg",
+    "price": 1800,
+    "brand": "Govee"
+  },
+  {
+    "id": 36,
+    "category": "light",
+    "image": "https://i.postimg.cc/bw5rBGqQ/01-png.jpg",
+    "price": 500,
+    "brand": "Philips"
+  },
+  {
+    "id": 37,
+    "category": "light",
+    "image": "https://i.postimg.cc/PxsxdBpp/Govee-LED-Smart-Ligh.jpg",
+    "price": 3000,
+    "brand": "Govee"
+  },
+  {
+    "id": 38,
+    "category": "light",
+    "image": "https://i.postimg.cc/wvXBM0LR/KHSUIN-Smart-Light-B.jpg",
+    "price": 2200,
+    "brand": "Cync"
+  },
+  {
+    "id": 39,
+    "category": "light",
+    "image": "https://i.postimg.cc/nz4Lr0BQ/Lax-Gadgets-2-Pack-S.jpg",
+    "price": 1500,
+    "brand": "Wiz"
+  },
+  {
+    "id": 40,
+    "category": "light",
+    "image": "https://i.postimg.cc/sXY2xw7J/LIFX-Color-E26-1-Pac.jpg",
+    "price": 3500,
+    "brand": "LIFX"
+  },
+  {
+    "id": 41,
+    "category": "light",
+    "image": "https://i.postimg.cc/LXts5NLt/Linkind-Matter-Smart.jpg",
+    "price": 3000,
+    "brand": "Linkind"
+  },
+  {
+    "id": 42,
+    "category": "light",
+    "image": "https://i.postimg.cc/Ss6KRDCg/Mobi-Smart-Wi-Fi-LED.jpg",
+    "price": 1200,
+    "brand": "Cync"
+  },
+  {
+    "id": 43,
+    "category": "light",
+    "image": "https://i.postimg.cc/fyMR9mf7/Nanoleaf-Essentials.jpg",
+    "price": 3000,
+    "brand": "Nanoleaf"
+  },
+  {
+    "id": 44,
+    "category": "light",
+    "image": "https://i.postimg.cc/fLcbyBmH/ORALUCE-Bluetooth-Sm.jpg",
+    "price": 1800,
+    "brand": "Philips"
+  },
+  {
+    "id": 45,
+    "category": "light",
+    "image": "https://i.postimg.cc/rsqwrxNN/Philips-Smart-Wi-Fi.jpg",
+    "price": 3500,
+    "brand": "Philips"
+  },
+  {
+    "id": 46,
+    "category": "light",
+    "image": "https://i.postimg.cc/FFxRQChC/Wyze-Color-Bulbs-L.png",
+    "price": 1000,
+    "brand": "Wyze"
+  },
+  {
+    "id": 47,
+    "category": "light",
+    "image": "https://i.postimg.cc/2yCSZh7X/Smart-Light-Bulbs-E.jpg",
+    "price": 1200,
+    "brand": "Wiz"
+  },
+  {
+    "id": 48,
+    "category": "light",
+    "image": "https://i.postimg.cc/Kjm8MBDq/Smart-Wi-Fi-LED-BR40.jpg",
+    "price": 2800,
+    "brand": "LIFX"
+  },
+  {
+    "id": 49,
+    "category": "light",
+    "image": "https://i.postimg.cc/rsqwrx96/Smart-Wi-Fi-Light-Bul.jpg",
+    "price": 2500,
+    "brand": "Govee"
+  },
+  {
+    "id": 50,
+    "category": "light",
+    "image": "https://i.postimg.cc/brLNHr6D/TORCHSTAR-A21-LED-Sm.jpg",
+    "price": 1000,
+    "brand": "Philips"
+  } 
+]
