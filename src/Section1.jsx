@@ -30,7 +30,7 @@ function Section1() {
       <img
         src={images[index]}
         alt="Slider"
-        className="w-full sm:w-[90%] md:w-[800px] lg:w-[1100px] xl:w-[1300px] h-64 sm:h-80 md:h-96 lg:h-[500px] xl:h-[600px] object-cover transition-all duration-700 rounded-md"
+        className="w-full sm:w-[90%] md:w-[800px] lg:w-[1100px] xl:w-[1300px] h-64 sm:h-80 md:h-96 lg:h-[550px] xl:h-[670px] object-cover transition-all duration-700 rounded-md"
       />
 
       {/* Prev Button */}
